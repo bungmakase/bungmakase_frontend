@@ -26,7 +26,7 @@ export function LabeledInfoField({
           onChange={(e) => onChange?.(e.target.value)}
           placeholder={placeholder}
           disabled={disabled}
-          className="max-w-[250px] font-light text-right"
+          className="max-w-[250px] font-light text-right bg-transparent border-none outline-none"
         />
       ) : (
         <span className="max-w-[250px] font-light truncate text-right">

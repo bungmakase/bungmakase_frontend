@@ -28,3 +28,38 @@ export const storeData: Store[] = [
     distance: '현재 위치로부터 거리',
   },
 ];
+
+export const bungDogamData = [
+  {
+    id: 'dogam1',
+    name: '팥',
+  },
+  {
+    id: 'dogam2',
+    name: '슈크림',
+  },
+  {
+    id: 'dogam3',
+    name: '호두',
+  },
+  {
+    id: 'dogam4',
+    name: '치즈',
+  },
+  {
+    id: 'dogam5',
+    name: '딸기',
+  },
+  {
+    id: 'dogam6',
+    name: '초코',
+  },
+  {
+    id: 'dogam7',
+    name: '녹차',
+  },
+  {
+    id: 'dogam8',
+    name: '치즈',
+  },
+];
